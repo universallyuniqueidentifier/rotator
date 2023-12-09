@@ -1,0 +1,2 @@
+/home/a/emsdk/upstream/emscripten/emar qc libstb.a CMakeFiles/stb.dir/stb_image.c.o CMakeFiles/stb.dir/stb_truetype.c.o
+/home/a/emsdk/upstream/emscripten/emranlib libstb.a

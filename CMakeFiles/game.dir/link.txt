@@ -1,0 +1,1 @@
+/home/a/emsdk/upstream/emscripten/em++ -s FULL_ES3=1 --preload-file /home/a/rotator/assets@/assets @CMakeFiles/game.dir/objects1.rsp -o game.html @CMakeFiles/game.dir/linklibs.rsp
